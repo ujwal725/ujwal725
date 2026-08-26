@@ -22,10 +22,6 @@ Focused on C++ software development, with a strong foundation in Object-Oriented
 ![DSA](https://img.shields.io/badge/DSA-4CAF50?style=for-the-badge)
 ![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B-00599C?style=for-the-badge)
 
-### Systems
-
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-333333?style=for-the-badge)
-
 ### Tools & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
